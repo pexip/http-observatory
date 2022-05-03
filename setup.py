@@ -55,7 +55,7 @@ setup(
         'pytz==2018.7',
         'vine==1.1.4',
         'Werkzeug==0.14.1',
-        'psycopg2>=2.7,<2.8',
+        'psycopg2>=2.8,<2.9',
         'redis==2.10.6',
         'psutil==5.9.0',
         'publicsuffixlist==0.7.12',
